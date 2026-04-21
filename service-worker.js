@@ -7,7 +7,7 @@ const CACHE_NAME = `ordo-cache-${CACHE_VERSION}`;
 // 需要预缓存的核心资源
 const CORE_ASSETS = [
   './',
-  './focus-app.html',
+  './index.html',
   './manifest.json',
 ];
 
@@ -88,7 +88,7 @@ self.addEventListener('fetch', event => {
         }).catch(() => {
           // 离线兜底:HTML 请求返回主页
           if (req.destination === 'document') {
-            return caches.match('./focus-app.html');
+            return caches.match('./index.html');
           }
         });
       })
