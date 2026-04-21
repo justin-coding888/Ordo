@@ -1,0 +1,27 @@
+{
+  "name": "秩序 · Ordo",
+  "short_name": "秩序",
+  "description": "Ordo · Focus Engine — 自适应番茄钟与艾森豪威尔矩阵",
+  "start_url": "./focus-app.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4ede0",
+  "theme_color": "#a8863b",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOTIgMTkyIj48cmVjdCB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgZmlsbD0iI2Y0ZWRlMCIvPjx0ZXh0IHg9Ijk2IiB5PSIxNDAiIGZvbnQtZmFtaWx5PSJzZXJpZiIgZm9udC1zaXplPSIxMzAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiMyYTI3MjAiIGZvbnQtc3R5bGU9Iml0YWxpYyI+56eN5bqPPC90ZXh0Pjwvc3ZnPg==",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cmVjdCB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgZmlsbD0iI2Y0ZWRlMCIvPjx0ZXh0IHg9IjI1NiIgeT0iMzcwIiBmb250LWZhbWlseT0ic2VyaWYiIGZvbnQtc2l6ZT0iMzUwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjMmEyNzIwIiBmb250LXN0eWxlPSJpdGFsaWMiPuengeW6jzwvdGV4dD48L3N2Zz4=",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "lifestyle"]
+}
