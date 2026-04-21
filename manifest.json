@@ -1,8 +1,8 @@
-{
+index{
   "name": "秩序 · Ordo",
   "short_name": "秩序",
   "description": "Ordo · Focus Engine — 自适应番茄钟与艾森豪威尔矩阵",
-  "start_url": "./focus-app.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "any",
